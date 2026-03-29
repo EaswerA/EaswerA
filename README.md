@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">⚡ Hey, I'm Easwer ⚡</h1>
 
-<!--
-**EaswerA/EaswerA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="120"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Full-Stack Developer | 🧠 AI Researcher | ⚡ Always Learning
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 About Me
+
+- 🧑‍💻 CS Student building cool stuff
+- 🤖 Into AI, NLP, Full-Stack and smart systems
+- 📈 Love optimizing things (gym + code 😤)
+- 🎯 Goal: Build impactful tech
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,flask,git,linux" />
+</p>
+
+---
+
+## ⚡ My Pokémon Team (Skills)
+
+| Pokémon | Skill |
+|--------|------|
+| ⚡ Pikachu | Python & AI |
+| 🔥 Charizard | Problem Solving |
+| 🧠 Alakazam | Algorithms |
+| 💧 Greninja | Backend Dev |
+| 🌿 Sceptile | Optimization |
+| 👻 Gengar | Debugging |
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EaswerA&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EaswerA&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/EaswerA">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Current Quest
+
+> “Training to become a full-stack AI master ⚡”
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png" width="100"/>
+</p>
