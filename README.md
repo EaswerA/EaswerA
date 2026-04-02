@@ -1,8 +1,8 @@
 <h1 align="center">⚡ Hey, I'm Easwer ⚡</h1>
 
-<p align="center">
+<a src="easwera.github.io"><p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="120"/>
-</p>
+</p></a>
 
 <p align="center">
   💻 Full-Stack Developer | 🧠 AI Researcher | ⚡ Always Learning
