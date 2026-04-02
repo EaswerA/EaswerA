@@ -1,7 +1,9 @@
 <h1 align="center">⚡ Hey, I'm Easwer ⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="120"/>
+  <a href="https://easwera.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="120"/>
+  </a>
 </p>
 
 <p align="center">
