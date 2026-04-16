@@ -42,9 +42,9 @@
 
 ---
 
-## 🎯 Current Quest
+## 🎯 Current Quest (Stuff I am doing currently)
 
-> “Training to become a full-stack AI master ⚡”
+> So I made this stupid dog eating homework website. It's super rudimentary but I think its fun so please give me some tips on how I can make it funnier 😭
 
 ---
 
